@@ -1,0 +1,9 @@
+N=int(input("Enter starting value: "))
+steps=0
+while N != 1:
+    print(N)
+    steps += 1
+    if N%2 == 0:
+	else:
+		N= 3*n+1
+print("steps=",steps)	
